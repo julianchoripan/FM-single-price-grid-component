@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/julianchoripan/FM-single-price-grid-component)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-hBjn8uRUsH)
 - Live Site URL: [Live site](https://github.com/julianchoripan/FM-single-price-grid-component)
 
 ## My process
